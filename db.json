@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Get the Dishes Done",
+      "desc": "Complete washing the dishes and place them in the drying rack before mother's back at home",
+      "status": "Incomplete"
+    },
+    {
+      "id": "2",
+      "title": "Water the Plants",
+      "desc": "Water the plants before they dry out and spray some pesticides over the flowers and fruits",
+      "status": "Completed"
+    },
+    {
+      "id": "3",
+      "title": "Complete the Assignment",
+      "desc": "Finish the college assignment and submit it by the deadline that is 12:30pm today night",
+      "status": "Incomplete"
+    },
+    {
+      "id": "4",
+      "title": "Connect with Project Lead",
+      "desc": "Communicate with the team lead to clarify the SRS",
+      "status": "Completed"
+    }
+  ]
+}
