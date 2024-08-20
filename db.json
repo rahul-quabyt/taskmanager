@@ -1,28 +1,25 @@
 {
   "tasks": [
     {
-      "id": "1",
-      "title": "Get the Dishes Done",
-      "desc": "Complete washing the dishes and place them in the drying rack before mother's back at home",
-      "status": "Incomplete"
+      "title": "Connect with Project Lead",
+      "desc": "Communicate with the team lead to clarify the SRS and work on the instructed tasks, push status updates at the end of the day \n",
+      "status": "Completed",
+      "important": false,
+      "id": "4"
     },
     {
-      "id": "2",
+      "id": "aac6",
       "title": "Water the Plants",
       "desc": "Water the plants before they dry out and spray some pesticides over the flowers and fruits",
-      "status": "Completed"
+      "status": "Incomplete",
+      "important": false
     },
     {
-      "id": "3",
-      "title": "Complete the Assignment",
-      "desc": "Finish the college assignment and submit it by the deadline that is 12:30pm today night",
-      "status": "Incomplete"
-    },
-    {
-      "id": "4",
+      "id": "d523",
       "title": "Connect with Project Lead",
-      "desc": "Communicate with the team lead to clarify the SRS",
-      "status": "Completed"
+      "desc": "Communicate with the team lead to clarify the SRS and work on the instructed tasks, push status updates at the end of the day",
+      "status": "Completed",
+      "important": false
     }
   ]
 }

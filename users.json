@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "john_doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "username": "jane_smith",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "3",
+      "username": "sam_jones",
+      "email": "sam@example.com"
+    },
+    {
+      "id": "7f8b",
+      "username": "rahul",
+      "email": "braptq@gmail.com"
+    },
+    {
+      "id": "9862",
+      "username": "ravindran",
+      "email": "ravi@hotmail.com"
+    }
+  ]
+}
